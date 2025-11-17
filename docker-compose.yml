@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   app:
-    image: faizhakim/test-html:latest
+    image: faizhakim/system-integrator:latest
     container_name: app
     ports:
       - "80:80"
